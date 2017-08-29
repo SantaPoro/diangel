@@ -6,3 +6,5 @@ Helow
 
 
 bitch <3
+
+Console.WriteLine("hello world");
